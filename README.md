@@ -1,1 +1,1 @@
-A microservice that includes application code, configuration files, and the necessary dependencies specified in the `requirements.txt` file.
+A microservice that consists of application code, configuration files, and required dependencies listed in the `requirements.txt` file, which are installed following the Dockerfile instructions during the containerization process.
