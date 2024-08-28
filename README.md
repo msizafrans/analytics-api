@@ -1,1 +1,1 @@
-An `analytics-api` microservice that contains its own application code, configuration files, and necessary dependencies specified in the `requirements.txt` file, which are installed based on the Dockerfile instructions during the containerization process.
+An `analytics-api` microservice that comprises its own application code, configuration files, and necessary dependencies specified in the `requirements.txt` file. These dependencies are installed during the containerization process, following the instructions in the Dockerfile.
