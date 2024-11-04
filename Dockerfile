@@ -13,4 +13,5 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 # Copy the contents of the 'app' directory to the working directory inside the Docker container
 COPY app/ .
 
+# Set the command to run the application
 CMD ["python", "app.py"]
